@@ -2,24 +2,24 @@
 <rss version="2.0">
     <channel>
         <title>Champions League</title>
-        <link>https://rodrigo2324.github.io/miprimersitioweb/tree/main</link>
+        <link>https://rodrigo2324.github.io/miprimersitioweb/</link>
         <description>Últimas noticias y actualizaciones sobre la Champions League</description>
         <lastBuildDate>Fri, 01 May 2024 12:00:00 GMT</lastBuildDate>
         <item>
             <title>Fase de grupos</title>
-            <link>https://rodrigo2324.github.io/miprimersitioweb/blob/main/champions.html</link>
+            <link>https://rodrigo2324.github.io/miprimersitioweb/champions.html</link>
             <description>Equipos clasificados a la champions league y sus grupos respectivos</description>
             <pubDate>Fri, 01 May 2024 08:00:00 GMT</pubDate>
         </item>
         <item>
             <title>Clasificados</title>
-            <link>https://rodrigo2324.github.io/miprimersitioweb/blob/main/champions.html</link>
+            <link>https://rodrigo2324.github.io/miprimersitioweb/champions.html</link>
             <description>Equipos clasificados a los cuartos de final</description>
             <pubDate>Fri, 02 May 2024 09:00:00 GMT</pubDate>
         </item>
         <item>
             <title>Resultados</title>
-            <link>https://rodrigo2324.github.io/miprimersitioweb/blob/main/champions.html</link>
+            <link>https://rodrigo2324.github.io/miprimersitioweb/champions.html</link>
             <description>Resultados fase de grupos</description>
             <pubDate>Fri, 03 May 2024 10:00:00 GMT</pubDate>
         </item>
